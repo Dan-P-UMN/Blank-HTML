@@ -3,9 +3,9 @@ html {
     min-height: 100%;
 }
 body {
-    background: -webkit-linear-gradient(#93B874, #C9DCB9);
-    background: -o-linear-gradient(#93B874, #C9DCB9);
-    background: -moz-linear-gradient(#93B874, #C9DCB9);
-    background: linear-gradient(#93B874, #C9DCB9);
+    background: -webkit-linear-gradient(#e4bad3, #fff815);
+    background: -o-linear-gradient(#e4bad3, #fff815);
+    background: -moz-linear-gradient(#e4bad3, #fff815);
+    background: linear-gradient(#e4bad3, #fff815);
     background-color: #93B874;
 }
